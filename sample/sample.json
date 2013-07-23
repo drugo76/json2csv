@@ -1,0 +1,47 @@
+[
+  {
+    "IsMember": true,
+    "Name": "John",
+    "Age": 24
+  },
+  {
+    "IsMember": true,
+    "Name": "Paul",
+    "Age": 44
+  }, 
+  {
+    "IsMember": true,
+    "Name": "Ringo",
+    "Age": 26
+  }, 
+  {
+    "IsMember": false,
+    "Name": "Henry",
+    "Age": 19
+  }, 
+  {
+    "IsMember": false,
+    "Name": "Peter",
+    "Age": 34
+  }, 
+  {
+    "IsMember": false,
+    "Name": "Michael",
+    "Age": 49
+  }, 
+  {
+    "IsMember": false,
+    "Name": "Leonardo",
+    "Age": 36
+  }, 
+  {
+    "IsMember": false,
+    "Name": "Mark",
+    "Age": 21
+  },
+  {
+    "IsMember": true,
+    "Name": "George",
+    "Age": 30
+  }
+]
